@@ -1,5 +1,5 @@
 {
-    "name": "workout-tracker",
+    "name": "fitnesstracker",
     "version": "1.0.0",
     "description": "Homework 13",
     "main": "api-routes.js",
